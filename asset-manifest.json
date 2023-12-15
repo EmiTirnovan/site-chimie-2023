@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Proiect-Chimie2023/static/css/main.73d050ce.css",
+    "main.js": "/Proiect-Chimie2023/static/js/main.101a0d03.js",
+    "static/js/787.f3bd35aa.chunk.js": "/Proiect-Chimie2023/static/js/787.f3bd35aa.chunk.js",
+    "static/media/Emi.jpeg": "/Proiect-Chimie2023/static/media/Emi.09e5facfd31155e3761e.jpeg",
+    "static/media/Razvan.jpeg": "/Proiect-Chimie2023/static/media/Razvan.1939be46cb91e0ad9bf7.jpeg",
+    "static/media/Daniel.jpeg": "/Proiect-Chimie2023/static/media/Daniel.d5013cfe96d07561f443.jpeg",
+    "static/media/Cosmin.jpeg": "/Proiect-Chimie2023/static/media/Cosmin.c72294cc8473bf7a8f64.jpeg",
+    "static/media/Rares.jpeg": "/Proiect-Chimie2023/static/media/Rares.1a801c10f22ab3e7a3a3.jpeg",
+    "index.html": "/Proiect-Chimie2023/index.html",
+    "main.73d050ce.css.map": "/Proiect-Chimie2023/static/css/main.73d050ce.css.map",
+    "main.101a0d03.js.map": "/Proiect-Chimie2023/static/js/main.101a0d03.js.map",
+    "787.f3bd35aa.chunk.js.map": "/Proiect-Chimie2023/static/js/787.f3bd35aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d050ce.css",
+    "static/js/main.101a0d03.js"
+  ]
+}
